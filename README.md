@@ -24,6 +24,10 @@
 - 🧾 **Loan Data Prediction Project**  
   EDA, preprocessing, and model building using Python for loan default prediction.
 
+- 🍽️ Zomato Bangalore Restaurants Analysis (Statistics & Python)
+  Statistical exploration of Bengaluru’s restaurant landscape using Python. Includes hypothesis testing, distribution analysis, and customer preference trends to uncover insights into cuisines, ratings, 
+  pricing, and locality-based patterns.
+
 ---
 
 📚 **Learning Path:**
